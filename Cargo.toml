@@ -1,0 +1,13 @@
+﻿[package]
+name = "paintmate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+egui = "0.27"
+image = { version = "0.24", features = ["png", "jpeg", "gif", "bmp"] }
+rfd = "0.14"
+anyhow = "1.0"
+log = "0.4"
+env_logger = "0.11"
