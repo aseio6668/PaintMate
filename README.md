@@ -2,6 +2,8 @@
 
 A cross-platform paint application built with Rust and egui, featuring advanced image editing capabilities and a modern user interface.
 
+![logo](paintmate.png)
+
 ## Features
 
 ### ✨ Core Features
@@ -210,3 +212,4 @@ If you encounter any issues or have feature requests, please file an issue on th
 ---
 
 Made with ❤️ in Rust
+
